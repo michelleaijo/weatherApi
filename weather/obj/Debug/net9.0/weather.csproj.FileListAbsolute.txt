@@ -1,0 +1,14 @@
+C:\Users\MichelleAijo\code\weather\weather\bin\Debug\net9.0\weather.exe
+C:\Users\MichelleAijo\code\weather\weather\bin\Debug\net9.0\weather.deps.json
+C:\Users\MichelleAijo\code\weather\weather\bin\Debug\net9.0\weather.runtimeconfig.json
+C:\Users\MichelleAijo\code\weather\weather\bin\Debug\net9.0\weather.dll
+C:\Users\MichelleAijo\code\weather\weather\bin\Debug\net9.0\weather.pdb
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.AssemblyInfoInputs.cache
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.AssemblyInfo.cs
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.csproj.CoreCompileInputs.cache
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.dll
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\refint\weather.dll
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.pdb
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\weather.genruntimeconfig.cache
+C:\Users\MichelleAijo\code\weather\weather\obj\Debug\net9.0\ref\weather.dll
